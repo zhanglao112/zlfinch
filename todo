@@ -1,0 +1,7 @@
+1.JwtBearerTokenGenerator.scala
+   1.1 create: Time, claim, JwtClaim exception?
+
+2. Reactor
+   2.1 findReactorById() 如果改ID 查询 权限安全考虑
+   2.2 update 不成功返回值
+   2.3 name 重复，一个基地唯一，全平台不唯一
